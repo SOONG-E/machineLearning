@@ -8,5 +8,5 @@
 - AdaBoost
 
 >> using titanic dataset
->> explanation in pptx
+>> explanation in decision_tree.pptx
 
