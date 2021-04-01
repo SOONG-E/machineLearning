@@ -1,3 +1,5 @@
+😁 decision_tree.ipynb
+
 - decision tree
 - random forest
 - gradient boosting
@@ -5,4 +7,6 @@
 - extra tree
 - AdaBoost
 
-using titanic dataset
+>> using titanic dataset
+>> explanation in pptx
+
